@@ -1,6 +1,8 @@
 # CV4Microscopy
 Some simple computer vision code for analyzing data from automated time-lapse microscopy
 
+This code was used as part of the [game assay pipeline](https://github.com/kaznatcheev/GameAssay). _Data Availability_: If you're interested in the raw images used there then due to the large file sizes please reach out by email so we can coordinate.
+
 Early versions of some of this code appeared in the [MathOnco](https://github.com/kaznatcheev/MathOnco) repository.
 
 Related blog posts:
